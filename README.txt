@@ -1,5 +1,3 @@
-dependencias:
-
 
 1-abrir visual studio code, abrir terminal y ubicarse en el directorio del proyecto:\TPintegrador\SIMULADOR>
 2-instalar pip install
