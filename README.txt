@@ -23,5 +23,3 @@ tanda 3 #Tanda de trabajos del parcial 2023, con 120 k de memoria total
 tendras que crear un archivo nombrearchivo.txt a la altura del proyecto
 y debera ser escrito de tal manera que:
 idTrabajo,nombre,tamaño,duracion,-1
-
-//nota:al tener tandas de ejemplos, puede guiarse para ver como se escriben.
